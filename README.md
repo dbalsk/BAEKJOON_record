@@ -5,8 +5,8 @@
 - [기초](https://github.com/dbalsk/BAEKJOON_record/blob/main/%EA%B8%B0%EC%B4%88.md)
 - [브루트포스](https://github.com/dbalsk/BAEKJOON_record/blob/main/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4.md)
 - [정렬](https://github.com/dbalsk/BAEKJOON_record/blob/main/%EC%A0%95%EB%A0%AC.md)
-- [재귀]()   
-- [백트래킹]()
-- [DP]()
-- [그리디]()
-- [분할정복]()
+- 재귀 
+- 백트래킹
+- DP
+- 그리디
+- 분할정복
